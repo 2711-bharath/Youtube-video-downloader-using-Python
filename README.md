@@ -9,3 +9,6 @@ modules needed
 To download these modules use pip commands
 1.pip install pytube
 2.pip install tkinter
+
+GUI looks like
+![GUI](GUI.png)
