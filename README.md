@@ -11,4 +11,4 @@ To download these modules use pip commands
 2.pip install tkinter
 
 GUI looks like
-![GUI](GUI.png)
+![Screenshot](GUI.PNG)
